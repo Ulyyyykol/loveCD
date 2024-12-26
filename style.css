@@ -1,3 +1,11 @@
+@import url('./company.css');
+@import url('./composition.css');
+@import url('./advantages.css');
+@import url('./use.css');
+@import url('./partnership.css');
+@import url('./test-kit.css');
+@import url('./rewiews.css');
+
 html {
   font-family: "Onest", serif;
   box-sizing: border-box;
